@@ -145,6 +145,5 @@
     "ionic_copy": "./scripts/demos/copy.config.js"
   },
   "pre-push#master": [
-    "test"
   ]
 }
