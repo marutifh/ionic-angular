@@ -39,7 +39,7 @@
     "zone.js": "0.8.18"
   },
   "devDependencies": {
-    "@ionic/app-scripts": "git+https://github.com/hubert-circdata/ionic-app-scripts.git",
+    "@ionic/app-scripts": "git+https://github.com/DMSI-Software/ionic-app-scripts.git",
     "@ionic/commit-hooks": "1.0.3",
     "@types/connect": "3.4.30",
     "@types/del": "2.2.31",
