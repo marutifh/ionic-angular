@@ -144,6 +144,9 @@
     },
     "ionic_copy": "./scripts/demos/copy.config.js"
   },
+  "overrides": {
+    "graceful-fs": "^4.2.11"
+  },
   "pre-push#master": [
   ]
 }
